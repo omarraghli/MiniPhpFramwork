@@ -1,0 +1,28 @@
+nav{
+    margin-bottom: 10px;
+}
+body{
+    background-image:linear-gradient(#F4EBD0, #D6AD60);
+    height: 5000px;
+}
+td
+{
+    border: 1px solid black;
+    padding: 20px;
+}
+th{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.afi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    margin-top: 30px;
+    font-weight: bold;
+}
+h1 { text-align: center ;
+}
